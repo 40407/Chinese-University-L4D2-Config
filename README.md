@@ -1,4 +1,8 @@
-# A L4D2 Competitive Config for Chinese University Students
+# CULMod - A L4D2 Competitive Config for Chinese University Students (Based on Zonemod)
+### Author: Sir, 40407, 184noob
+### Contributions: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m
+##
+## CULMod Noob
 ### 1.奖励分：
 ### ①总血分＝路程分
 ### ②一个包＝路程分÷团队人数×0.8
@@ -23,3 +27,26 @@
 ### 弹夹:50->60
 ### 备弹:700->900
 ### 9. 喷备弹:80->100
+##
+## CULMod Elite
+### 包分 = 0.1 * 路程分 * n 
+### 药分 = 0.05 * 路程分 * n 
+### 伤害分 =（540 - 伤害计数）* 路程分/300 
+### 倒地 +54 伤害计数，扶起 -30 伤害计数 
+### 1. uzi： 
+### 伤害 23 
+### 移动最小扩散0.2 
+### 移动最大扩散1.9
+### 衰减系数0.8
+### smg:
+### 换弹1.9s
+### 衰减系数0.75
+### 2. 铁喷弹丸伤害30，木喷18 
+### 3. 最大lerp100
+### 4. 小僵尸上限25 
+### ①胖子喷第一第二人：11个 
+### ②第三第四人：9个 
+### 5. 机枪备弹950 , 喷备弹128 
+### 6. 近战砍牛300 
+### 7. 包回血60%,打包时间4s 
+### 8. 生还者每回退7%,坦克控制权冻结5s，克6300
