@@ -1,6 +1,7 @@
 # CULMod - A L4D2 Competitive Config for Chinese University Students (Based on Zonemod)
 ### Author: Sir, 40407, 184noob
 ### Contributions: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m
+### L4D2 Competitive Rework is needed: https://github.com/SirPlease/L4D2-Competitive-Rework/
 ##
 ## CULMod Noob
 ### 1.奖励分：
