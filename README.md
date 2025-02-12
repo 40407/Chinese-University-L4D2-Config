@@ -2,7 +2,7 @@
 ### 作者: Sir, 40407, 184noob
 ### 特别鸣谢: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
-## （直接下载CULMod.zip可以直接使用）
+## （可以直接下载CULMod.zip直接使用）
 ## CULMod Noob
 ### 1.奖励分：
 ### ①总血分＝路程分
