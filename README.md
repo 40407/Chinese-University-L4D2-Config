@@ -52,6 +52,7 @@
 ### 7. 包回血60%,打包时间4s 
 ### 8. 生还者每回退7%,坦克控制权冻结5s，克6300
 
+#
 # 中国高校求生之路2竞技配置(CULMod)发展史介绍
 
 ## 40407</sup> 
@@ -197,7 +198,7 @@
 
 ① 特感打平均血可以很好地减缓生还者的推进速度，并让生还者考虑打包。
 
-`    `② 当生还者db归零后，应当考虑减员或者灭团，因为此时打伤害已无意义。
+② 当生还者db归零后，应当考虑减员或者灭团，因为此时打伤害已无意义。
 # **References**
 1. [https://github.com/40407/Chinese-University-L4D2-Config.](https://github.com/40407/Chinese-University-L4D2-Config)
 1. [https://github.com/SirPlease/L4D2-Competitive-Rework/.](https://github.com/SirPlease/L4D2-Competitive-Rework/)
