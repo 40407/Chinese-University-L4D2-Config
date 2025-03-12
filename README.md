@@ -2,6 +2,7 @@
 ### 作者: Sir, 40407, 184noob
 ### 特别鸣谢: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
+##
 ## CULMod Pro
 ### 奖励分：
 ### 包分 = 8 % 路程分 * n 
@@ -16,12 +17,14 @@
 ### 5. 包固定回60，不清虚血，3s
 ### 6. 非救援不刷药
 ### 7. 生还每回退7%，克控锁5s
+##
 ## CULMod 3v3
 ### ① 坦克4800
 ### ② 小僵尸上限16
 ### ③ 特感复活时间11s，特感池为四控＋胖子
 ### ④ 医疗包使用时间3s，拥有缓回效果
 ### ⑤ 倒地马格南
+##
 ## CULMod Noob
 ### 1.奖励分：
 ### ①总血分＝路程分
