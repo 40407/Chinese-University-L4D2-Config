@@ -3124,8 +3124,47 @@
 			"pain_pills"    "5"
 		}
 	}
-
-
+//=======================================================================
+//=============== Left 4 Portal 2 v1.1 传送门2
+	"pt2_m5"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "4"
+		}
+	}
+//=======================================================================
+//=============== Black Mist Rework 黑迷雾改
+	"black_mist_m3"
+	{
+		"tank_ban_flow"
+		{
+			"early"
+			{
+				"min"        "0"
+				"max"        "25"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"    "3"
+		}
+	}
+	"black_mist_m4"
+	{
+		"tank_ban_flow"
+		{
+			"early"
+			{
+				"min"        "0"
+				"max"        "78"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"    "4"
+		}
+	}
 
 
 //-------- ↓↓↓ dont delete the closing bracket ↓↓↓
