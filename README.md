@@ -1,6 +1,6 @@
 # CULMod - 《求生之路2》（L4D2）中国高校竞技配置 (基于Zonemod)
-### 作者: Sir, 40407, 184noob
-### 特别鸣谢: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m
+### 作者: 40407, 184noob
+### 特别鸣谢: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m，Sir
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
 ##
 ## CULMod Pro
