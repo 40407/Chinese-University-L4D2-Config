@@ -9,15 +9,15 @@
 ### &emsp;{
 ### &emsp;&ensp;"cmpr"
 ### &emsp;&ensp;{
-### &emsp;&ensp;&ensp;"name" "CULMod Pro"
+### &emsp;&emsp;"name" "CULMod Pro"
 ### &emsp;&ensp;}
 ### &emsp;&ensp;"cmel"
 ### &emsp;&ensp;{
-### &emsp;&ensp;&ensp;"name" "CULMod Elite"
+### &emsp;&emsp;"name" "CULMod Elite"
 ### &emsp;&ensp;}
 ### &emsp;&ensp;"culmod"
 ### &emsp;&ensp;{
-### &emsp;&ensp;&ensp;"name" "CULMod Noob"
+### &emsp;&emsp;"name" "CULMod Noob"
 ### &emsp;&ensp;}
 ### &emsp;}
 ### }
