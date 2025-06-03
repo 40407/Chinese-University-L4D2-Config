@@ -3,6 +3,24 @@
 ### 特别鸣谢: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m，Sir
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
 ##
+### "MatchModes"
+### {
+### 	"CULMod Configs"
+### 	{
+### 		"cmpr"
+### 		{
+### 			"name" "CULMod Pro"
+### 		}
+### 		"cmel"
+### 		{
+### 			"name" "CULMod Elite"
+### 		}
+### 		"culmod"
+### 		{
+### 		  "name" "CULMod Noob"
+### 		}
+### 	}
+### }
 ## CULMod Pro
 ### 奖励分同zm
 ### 1. UZI 64发
