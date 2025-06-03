@@ -6,20 +6,20 @@
 ### "MatchModes"
 ### {
 ### &emsp;"CULMod Configs"
-### 	{
-### 		"cmpr"
-### 		{
+### &emsp;{
+### &emsp;&ensp"cmpr"
+### &emsp;{
 ### &emsp;"name" "CULMod Pro"
-### 		}
-### &emsp;"cmel"
-### 		{
+### &emsp;}
+### &emsp;&ensp"cmel"
+### &emsp;{
 ### &emsp;"name" "CULMod Elite"
-### 		}
-### &emsp;"culmod"
-### 		{
+### &emsp;}
+### &emsp;&ensp"culmod"
+### &emsp;{
 ### &emsp;"name" "CULMod Noob"
-### 		}
-### 	}
+### &emsp;}
+### &emsp;}
 ### }
 ## CULMod Pro
 ### 奖励分同zm
