@@ -5,8 +5,8 @@
 ##
 ### "MatchModes"
 ### {
-### &emsp;&ensp;"CULMod Configs"
-### &emsp;&ensp;{
+### &emsp;"CULMod Configs"
+### &emsp;{
 ### &emsp;&ensp;"cmpr"
 ### &emsp;&ensp;{
 ### &emsp;&ensp;&ensp;"name" "CULMod Pro"
