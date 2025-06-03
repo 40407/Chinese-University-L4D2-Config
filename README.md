@@ -7,15 +7,15 @@
 ### {
 ### &emsp;"CULMod Configs"
 ### &emsp;{
-### &emsp;&ensp"cmpr"
+### &emsp;&ensp;"cmpr"
 ### &emsp;{
 ### &emsp;"name" "CULMod Pro"
 ### &emsp;}
-### &emsp;&ensp"cmel"
+### &emsp;&ensp;"cmel"
 ### &emsp;{
 ### &emsp;"name" "CULMod Elite"
 ### &emsp;}
-### &emsp;&ensp"culmod"
+### &emsp;&ensp;"culmod"
 ### &emsp;{
 ### &emsp;"name" "CULMod Noob"
 ### &emsp;}
