@@ -3,26 +3,6 @@
 ### 特别鸣谢: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m，Sir
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
 ##
-### "steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\configs\matchmodes.txt"
-### "MatchModes"
-### {
-### &emsp;"CULMod Configs"
-### &emsp;{
-### &emsp;&ensp;"cmpr"
-### &emsp;&ensp;{
-### &emsp;&emsp;"name" "CULMod Pro"
-### &emsp;&ensp;}
-### &emsp;&ensp;"cmel"
-### &emsp;&ensp;{
-### &emsp;&emsp;"name" "CULMod Elite"
-### &emsp;&ensp;}
-### &emsp;&ensp;"culmod"
-### &emsp;&ensp;{
-### &emsp;&emsp;"name" "CULMod Noob"
-### &emsp;&ensp;}
-### &emsp;}
-### }
-##
 ## CULMod Pro（药抗）
 ### 1. UZI 64发
 ### 2. 新增MP5
